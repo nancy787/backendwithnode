@@ -1,11 +1,14 @@
 {
-  "name": "yes",
+  "name": "backenddevelopment",
   "version": "1.0.0",
-  "description": "backend development",
+  "description": "node js learning",
   "main": "index.js",
   "scripts": {
-    "test": "backend"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "backend"
+  ],
   "author": "nancy",
   "license": "ISC"
 }
